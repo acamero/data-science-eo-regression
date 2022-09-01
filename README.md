@@ -1,6 +1,16 @@
 # Data Science in Earth Observation - Regression
 
-## Helmholtz AI CountMeIn Challenge
+## Helmholtz AI CountMeIn Challenge (April 11 to May 23, 2022)
+
+[Helmholtz AI](https://www.helmholtz.ai/) is proud to announce an exciting data challenge: the Helmholtz AI CountMeIn Challenge. In this challenge, the participant teams will solve a challenging data science problem from the field of remote sensing: A spatially resolved estimate of the population based on satellite images. The task of the challenge is solving the problem up to a target accuracy with the smallest amount of resources possible. In two tracks, two of the most precious resources are addressed. In track GoGreen, the participant contribution wins that used as little energy. For the GoFast track, the task is to use as little time as possible.
+
+This data challenge addresses a scientific audience, and therefore all participants are required to follow Good Scientific Practice. This means that for a valid submission, it is required to make code available, ensure reproducibility and document the steps to solution. The winning contributions to both tracks can present their solutions at the Helmholtz AI Conference.
+For both tracks, you will be using the HAICORE installations located at Karlsruhe Institute of Technology (KIT) and Forschungszentrum Jülich (FZJ). The submission will happen on the newly formed [Helmholtz Data Challenges Platform](http://helmholtz-data-challenges.de/).
+
+Even though the challenge ended, you can submit your results and compare the performance of your solution against the community on the [web](https://helmholtz-data-challenges.de/web/challenges/challenge-page/92/overview)
+
+![Data sample](ancillary_rasters_example.png)
+
 
 
 ## Getting Started
