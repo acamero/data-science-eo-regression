@@ -31,9 +31,9 @@ You should see something like `Python 3.6.9`. This tutorial requires `python >= 
 
 4. [Recommended] Create a virtual environment `virutalenv --python=python3.6 venv`), and activate it `source venv/bin/activate`.
 
-5. Install *Jupyterlab* `pip install jupyterlab`, and start it `jupyter-lab`.
+5. Install *Jupyterlab* `pip install jupyterlab`.
 
-6. Open the *notebook* `population_estimation.ipynb`, and follow the instructions.
+6. Start *Jupyterlab* `jupyter-lab`, open the *notebook* `population_estimation.ipynb`, and follow the instructions.
 
 **Note**: Please, be sure to complete steps 1 to 5 before the lecture, and to install all the required packages, either by running the first block of code of the notebook or by executing `pip install -r requirements`. Then, check that everything is ready by running `python check.py`. If the required packages are installed and the data is in place, you will get an `OK`.
 
