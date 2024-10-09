@@ -23,13 +23,13 @@ To get started from scratch, please follow the steps:
 python --version
 ```
 
-You should see something like `Python 3.6.9`. This tutorial requires `python >= 3.6`. If you don't have python installed, visit [python.org](https://www.python.org/downloads/), and follow the instructions.
+You should see something like `Python 3.10.12`. This tutorial has been tested on `python 3.10.12`. If you don't have python installed, visit [python.org](https://www.python.org/downloads/), and follow the instructions.
 
 2. Get the code `git clone git@github.com:acamero/data-science-eo-regression.git`, and go to the new folder (e.g., `cd data-science-eo-regression`).
 
 3. Download the data from this [link](https://syncandshare.lrz.de/getlink/fiELMVZd49ezrL4ZjKAvciPm/), and copy it to the folder `data-science-eo-regression/data`.
 
-4. [Recommended] Create a virtual environment `virutalenv --python=python3.6 venv`), and activate it `source venv/bin/activate`.
+4. [Recommended] Create a virtual environment `virutalenv --python=python3 venv`), and activate it `source venv/bin/activate`.
 
 5. Install *Jupyterlab* `pip install jupyterlab`.
 
